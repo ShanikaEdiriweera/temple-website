@@ -1,0 +1,11 @@
+.temple-contact {
+	display: grid;
+	justify-content: center;
+	grid-template-columns: 60px auto;
+	margin-top: 10px;
+	font-size: 30px;
+}
+
+.temple-contact .info {
+	justify-self: start;
+}
