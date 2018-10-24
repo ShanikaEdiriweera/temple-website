@@ -1,0 +1,22 @@
+.temple-contact {
+	display: grid;
+	justify-content: center;
+	grid-template-columns: 60px auto;
+	margin-top: 10px;
+	font-size: 30px;
+}
+
+.temple-contact .info {
+	justify-self: start;
+}
+
+.temple-map {
+	display: flex;
+	justify-content: center;
+	width: 600px;
+	height: 450px;
+	min-width: 500px;
+	min-height: 450px;
+	margin-top: 10px;
+	font-size: 30px;
+}
