@@ -9,3 +9,14 @@
 .temple-contact .info {
 	justify-self: start;
 }
+
+.temple-map {
+	display: flex;
+	justify-content: center;
+	width: 600px;
+	height: 450px;
+	min-width: 500px;
+	min-height: 450px;
+	margin-top: 10px;
+	font-size: 30px;
+}
