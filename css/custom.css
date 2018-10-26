@@ -6,5 +6,14 @@
 -----------------------------------------------------------------*/
 
 
+.row {
+    margin: 15px ;
+}
 
-
+.galleryHeader{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Droid Sans', sans-serif;
+    font-weight: bold;
+    color: #58595a;
+}
